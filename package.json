@@ -1,0 +1,17 @@
+{
+  "name": "gift-exchange",
+  "version": "1.0.0",
+  "description": "This website is desinged for setting up secret santa events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "errorhandler": "1.5.0",
+    "express": "4.16.2",
+    "mongoose": "5.0.0",
+    "morgan": "1.9.0"
+  }
+}
